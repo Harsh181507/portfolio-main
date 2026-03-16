@@ -275,7 +275,7 @@ export default function Footer() {
                             </a>
 
                             <p style={{ fontSize: 14, color: "rgba(248,250,252,0.35)", lineHeight: 1.75, margin: "0 0 28px", maxWidth: isMobile ? "100%" : 320 }}>
-                                Android Developer & Backend Engineer. Building scalable systems with Kotlin, Jetpack Compose, Spring Boot, and modern tools.
+                                Android Developer & Java Spring Boot Developer. Building scalable systems with Kotlin, Jetpack Compose, Spring Boot, and modern tools.
                             </p>
 
                             {/* Contact info */}
