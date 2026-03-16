@@ -511,10 +511,12 @@ export default function Hero() {
                                         Get In Touch
                                     </motion.a>
                                     <motion.a
-                                        href="/resume.pdf"
-                                        download
+                                        href="/Resume.pdf"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        download="HarshRaj_Resume.pdf"
                                         style={{
-                                            display: "inline-flex", alignItems: "center", gap: 7,
+                                            display: "flex", alignItems: "center", gap: 8,
                                             padding: "12px 18px", borderRadius: 10,
                                             border: "1px solid rgba(255,255,255,0.08)",
                                             color: "rgba(248,250,252,0.4)", fontSize: 13,
