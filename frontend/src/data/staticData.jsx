@@ -191,7 +191,7 @@ export const allProjects = [
     ],
     year: "2025",
     category: "Mobile Development",
-    featured: true,
+    featured: false,
     stats: {
       stars: 0,
       forks: 0,
@@ -220,7 +220,7 @@ export const allProjects = [
     ],
     year: "2025",
     category: "Backend Development",
-    featured: true,
+    featured: false,
     stats: {
       stars: 0,
       forks: 0,
