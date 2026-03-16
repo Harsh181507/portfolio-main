@@ -147,7 +147,7 @@ export const allProjects = [
     description:
       "An enterprise-grade distributed backend platform for healthcare providers. Includes Auth, Patient, Billing, and Analytics services, secured with JWT and routed via Spring Cloud Gateway. Services run in Docker on ECS Fargate, provisioned using AWS CDK and tested locally with LocalStack.",
     image:
-      "https://images.unsplash.com/photo-1581093458791-9f3c3250d3d1?w=900&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
     liveUrl: "https://github.com/Harsh181507/patient-management-microservices",
     githubUrl: "https://github.com/Harsh181507/patient-management-microservices",
     technologies: [
