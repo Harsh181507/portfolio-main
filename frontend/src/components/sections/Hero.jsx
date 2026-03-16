@@ -290,7 +290,6 @@ export default function Hero() {
 
     const role = useTypewriter([
         "Android Developer",
-        "Java Developer",
         "Java Spring Boot Developer",
         "Backend Engineer",
         "Full Stack Engineer",
