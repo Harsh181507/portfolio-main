@@ -142,35 +142,6 @@ export const allProjects = [
 
   {
     id: 1,
-    title: "Tomato Smart Food Delivery App",
-    tagline: "Full-Stack Food Delivery Platform with AI Safety Features",
-    description:
-      "A modern food delivery app built during a hackathon with Kotlin & Jetpack Compose. Features restaurant browsing, cart management, Razorpay payments, smart bill splitting (equal & item-wise), and an AI-powered delivery partner safety system using accelerometer/gyroscope data to detect accidents and auto-notify emergency contacts via Twilio.",
-    image:
-      "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=900&q=80",
-    liveUrl: "https://github.com/Harsh181507/Tomato-Hackathon",
-    githubUrl: "https://github.com/Harsh181507/Tomato-Hackathon",
-    technologies: [
-      "Kotlin",
-      "Jetpack Compose",
-      "Spring Boot",
-      "Razorpay",
-      "Firebase",
-      "Twilio",
-      "ML"
-    ],
-    year: "2025",
-    category: "Mobile Development",
-    featured: true,
-    stats: {
-      stars: 0,
-      forks: 0,
-      screens: 15
-    }
-  },
-
-  {
-    id: 2,
     title: "Patient Management Microservices",
     tagline: "Spring Boot Microservices Healthcare Backend",
     description:
@@ -196,6 +167,35 @@ export const allProjects = [
       stars: 30,
       forks: 0,
       services: 4
+    }
+  },
+
+  {
+    id: 2,
+    title: "Tomato Smart Food Delivery App",
+    tagline: "Full-Stack Food Delivery Platform with AI Safety Features",
+    description:
+      "A modern food delivery app built during a hackathon with Kotlin & Jetpack Compose. Features restaurant browsing, cart management, Razorpay payments, smart bill splitting (equal & item-wise), and an AI-powered delivery partner safety system using accelerometer/gyroscope data to detect accidents and auto-notify emergency contacts via Twilio.",
+    image:
+      "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=900&q=80",
+    liveUrl: "https://github.com/Harsh181507/Tomato-Hackathon",
+    githubUrl: "https://github.com/Harsh181507/Tomato-Hackathon",
+    technologies: [
+      "Kotlin",
+      "Jetpack Compose",
+      "Spring Boot",
+      "Razorpay",
+      "Firebase",
+      "Twilio",
+      "ML"
+    ],
+    year: "2025",
+    category: "Mobile Development",
+    featured: true,
+    stats: {
+      stars: 0,
+      forks: 0,
+      screens: 15
     }
   },
 
