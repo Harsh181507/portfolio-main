@@ -1,36 +1,44 @@
-# Harsh Raj | Software Engineer Portfolio
+# 🚀 Harsh Raj | Android & Java Spring Boot Developer
 
 Welcome to the source code for my personal portfolio website!
 
-## 🚀 About Me
+Check out the live version here: **[https://harshraj-dev.vercel.app/](https://harshraj-dev.vercel.app/)**
+
+---
+
+## 👨‍💻 About Me
 
 I am a **Software Engineer** specializing in **Android Development** and **Backend Systems** using **Kotlin, Java, and Spring Boot**. 
 
-Currently, I work as an **Android Developer Intern at FinTradify** where I build scaling production apps available on the Google Play Store. I also lead development at the **CSI Tech Team** and co-run a freelance agency called **Dang**.
+Currently, I work as an **Android Developer Intern at FinTradify** where I build scaling production apps available on the Google Play Store. I also lead development at the **CSI Tech Team** and co-run a freelance agency called **Dang**. I obsess over clean architecture, REST API design, and scalable system design.
 
-### Tech Stack
-- **Languages:** Java, Kotlin, JavaScript
-- **Mobile Development:** Android App Development, Jetpack Compose, MVVM
-- **Backend & Web:** Spring Boot, Node.js, React.js
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps & Cloud:** Docker, AWS Cloud Foundations, Jenkins
-- **Styling:** Vanilla CSS, Tailwind
+### ✨ Tech Stack
+* **Languages:** Java, Kotlin, JavaScript
+* **Mobile Development:** Android App Development, Jetpack Compose, MVVM
+* **Backend & Web:** Spring Boot, REST APIs, Node.js, React.js
+* **Databases:** PostgreSQL, MongoDB, MySQL
+* **DevOps & Cloud:** Docker, AWS (EC2, Fargate), Jenkins
+* **Styling:** Vanilla CSS, Tailwind, Framer Motion
 
-## 🌟 Featured Projects
+---
 
-Here are a few of the projects showcased on this portfolio:
+## 🌟 Featured Projects Highlighted
 
-- **Tomato Smart Food Delivery:** A full-stack food delivery app built with Kotlin, Jetpack Compose, and Spring Boot featuring AI safety capabilities.
-- **Patient Management Microservices:** An enterprise-grade healthcare backend built with Java, Spring Boot, Docker, and AWS.
-- **FabFit E-Commerce:** Modern Android shopping app using Clean Architecture, MVVM, and Hilt.
-- **CSI Event Management:** Scalable backend API utilizing Spring Boot and Docker.
+Here are a few of the top projects showcased on this portfolio:
+
+- **Patient Management Microservices:** An enterprise-grade healthcare backend built with Java, Spring Boot, Docker, and AWS. Includes Auth, Patient, Billing, and Analytics services.
+- **Tomato Smart Food Delivery:** A full-stack food delivery app built with Kotlin, Jetpack Compose, and Spring Boot featuring AI safety capabilities (accident detection & emergency notification).
+- **CSI Event Management:** Scalable backend API utilizing Spring Boot and Docker for college event management.
+- **MySchool – Attendance Tracker:** An Android app built with Jetpack Compose and Kotlin for managing school activities and tracking attendance.
+
+---
 
 ## 🛠️ Local Development
 
-This project was bootstrapped with **Vite** and built using **React** and **Tailwind CSS**.
+This project was bootstrapped with **Vite** and built using **React** and **Tailwind CSS**. The animations are powered by **Framer Motion**.
 
 ### Prerequisites
-- Node.js installed on your machine.
+- Node.js (v16+) installed on your machine.
 
 ### Installation & Run
 
@@ -51,9 +59,15 @@ This project was bootstrapped with **Vite** and built using **React** and **Tail
    npm run dev
    ```
 
-## 📧 Contact
+---
+
+## 📧 Contact & Links
 
 Feel free to connect with me!
-- [LinkedIn Profile](https://www.linkedin.com/in/kumar-harsh-raj/)
-- [Email](mailto:dev.kumarharshraj@gmail.com)
-- [LeetCode](https://leetcode.com/u/Harsh_01815/)
+- **LinkedIn:** [Kumar Harsh Raj](https://www.linkedin.com/in/kumar-harsh-raj/)
+- **Email:** [dev.kumarharshraj@gmail.com](mailto:dev.kumarharshraj@gmail.com)
+- **LeetCode:** [Harsh_01815](https://leetcode.com/u/Harsh_01815/)
+- **GitHub:** [Harsh181507](https://github.com/Harsh181507)
+
+---
+*© 2025 Harsh Raj. Crafted with precision & ☕*
