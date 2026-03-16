@@ -625,10 +625,9 @@ export default function Hero() {
                                     <span style={{ color: "#a3e635" }}>builder</span> by passion.
                                 </h2>
                                 <p style={{ fontSize: 16, color: "rgba(248,250,252,0.45)", lineHeight: 1.85, margin: "0 0 24px" }}>
-                                    I'm <strong style={{ color: "#f8fafc" }}>Harsh Raj</strong>, a Computer Science student at VIT-AP University
-                                    and former Android Developer Intern at <strong style={{ color: "#a3e635" }}>FinTradify</strong>.
-                                    I specialize in building scalable Android apps with Jetpack Compose and
-                                    production-grade backend systems with Spring Boot.
+                                    I'm <strong style={{ color: "#f8fafc" }}>Harsh Raj</strong>, an <strong style={{ color: "#a3e635" }}>Android Developer</strong> & <strong style={{ color: "#4ade80" }}>Java Spring Boot Developer</strong>,
+                                    and a CS student at VIT-AP University. I specialize in building scalable Android apps with
+                                    Jetpack Compose and production-grade backend systems with Spring Boot.
                                 </p>
                                 <p style={{ fontSize: 16, color: "rgba(248,250,252,0.45)", lineHeight: 1.85, margin: "0 0 32px" }}>
                                     I lead development initiatives, conduct technical webinars, mentor junior developers,
