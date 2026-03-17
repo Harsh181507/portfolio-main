@@ -289,8 +289,7 @@ export default function Hero() {
     const isMobile = useIsMobile();
 
     const role = useTypewriter([
-        "Android Developer",
-        "Java Spring Boot Developer",
+        "Android & Java Spring Boot Developer",
         "Backend Engineer",
         "Full Stack Engineer",
     ], 70, 2200);
